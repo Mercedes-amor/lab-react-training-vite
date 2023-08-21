@@ -10,7 +10,7 @@ let randomStyle ={
 }
  return(
     <div style={randomStyle}>
-        <p>Random value Between 1 and 6 => {randomNumber}</p>
+        <p>Random value Between 1 and 6: {randomNumber}</p>
     </div>
  )
 }
